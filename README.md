@@ -29,7 +29,7 @@ To ensure reliability, the dataset was cleaned and filtered to remove inconsiste
 ---
 
 ## 📊 Key Findings & Insights
-
+![Main Dashboard](Dashboard/VendorPerformanceDashB.png)
 ### 1. Vendor Dependency Risk
 * **Insight:** The supply chain is heavily concentrated. The **Top 10 Vendors contribute 65.69%** of total purchases, while all other vendors combined contribute only 34.31%.
 * **Risk:** This over-reliance creates vulnerability to supply chain disruptions.
